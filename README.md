@@ -1,7 +1,7 @@
 # Local File Agent 🗂️
 
 A terminal-based AI agent that manages files on your own machine using
-plain English — powered by **Groq's free-tier API** running
+plain English — powered by **Groq's model API** running
 **openai/gpt-oss-20b**, OpenAI's small open-weight model. Groq's inference
 runs on custom LPU hardware (not GPU), so responses come back at roughly
 1000 tokens/sec — no local model to load, no GPU/RAM needed on your
