@@ -1,0 +1,12 @@
+{
+  "name": "local-file-agent-ui",
+  "version": "1.0.0",
+  "description": "Electron UI for the Local File Agent (Groq gpt-oss-20b)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.0.0"
+  }
+}
